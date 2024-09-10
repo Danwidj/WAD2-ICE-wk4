@@ -6,7 +6,6 @@ text-align: center;
 padding: 10px;
 }
 
-p {
-border: green;
-border-width: 2px;
+div {
+border: 2px solid green;
 }
