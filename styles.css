@@ -1,11 +1,11 @@
 /* complete CSS for the header and div border*/
 header {
-background-color: blue;
+background-color: red;
 color: white;
 text-align: center;
 padding: 10px;
 }
 
 div {
-border: 2px solid red;
+border: 2px solid green;
 }
